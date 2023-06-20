@@ -60,4 +60,4 @@ The Crypto Tracker project is licensed under the <span style="color: purple;">MI
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to the project maintainers at <span style="color: green;">contact@example.com</span>.
+If you have any questions, suggestions, or feedback, please feel free to reach out to the project maintainers at <span style="color: green;">dhanushgollavilli02@gmail.com</span>.
